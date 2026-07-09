@@ -1,4 +1,4 @@
-# PocketLedger v1.0
+# expense tracker V1:
 
 A simple command-line expense tracker built in Python.
 
